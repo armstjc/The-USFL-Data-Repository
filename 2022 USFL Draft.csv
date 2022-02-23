@@ -1,102 +1,298 @@
-﻿Round,Pick#,RoundPick#,Team,Player,Position,College,PFR_id,CompPick
-1,1,1,Michigan Panthers,Shea Patterson,QB,Michigan,PattSh00,0
-1,2,2,Tampa Bay Bandits,Jordan Ta'amu,QB,Mississippi,TaamJo01,0
-1,3,3,Philadelphia Stars,Bryan Scott,QB,Occidental,,0
-1,4,4,New Jersey Generals,Ben Holmes,QB,Tarleton,,0
-1,5,5,Houston Gamblers,Clayton Thorson,QB,Northwestern,ThorCl00,0
-1,6,6,Birmingham Stallions,Alex McGough,QB,FIU,McGoAl00,0
-1,7,7,Pittsburgh Maulers,Kyle Lauletta,QB,Richmond,LaulKy00,0
-1,8,8,New Orleans Breakers,Kyle Sloter,QB,Northern Colorado,SlotKy00,0
-2,9,1,New Orleans Breakers,Davin Bellamy,EDGE/DE,Georgia,BellDa01,0
-2,10,2,Pittsburgh Maulers,Carlo Kemp,EDGE/DE,Michigan,KempCa00,0
-2,11,3,Birmingham Stallions,Aaron Adeoye,EDGE/DE,SE Missouri St.,AdeoAa00,0
-2,12,4,Houston Gamblers,Chris Odom,EDGE/DE,Arkansas St.,OdomCh00,0
-2,13,5,New Jersey Generals,Bryson Young,EDGE/DE,Oregon,,0
-2,14,6,Philadelphia Stars,Freedom Akinmoladun,EDGE/DE,Nebraska,AkinFr01,0
-2,15,7,Tampa Bay Bandits,Mekhi Brown,EDGE/DE,Tennessee St.,,0
-2,16,8,Michigan Panthers,Adewale Adeoye,EDGE/DE,Utah St.,,0
-3,17,1,Michigan Panthers,Cavon Walker,EDGE/DE,Maryland,WalkCa01,0
-3,18,2,Tampa Bay Bandits,Michael Scott,EDGE/DE,Oklahoma St.,,0
-3,19,3,Philadelphia Stars,Gus Cumberlander,EDGE/DE,Oregon,,0
-3,20,4,New Jersey Generals,Kolin Hill,EDGE/DE,Texas Tech,,0
-3,21,5,Houston Gamblers,Ahmad Gooden,EDGE/DE,Samford,GoodAh00,0
-3,22,6,Birmingham Stallions,Chauncy Haney,EDGE/DE,North Greenvillle,,0
-3,23,7,Pittsburgh Maulers,Nasir Player,EDGE/DE,East Tennessee St.,,0
-3,24,8,New Orleans Breakers,Anree Saint-Amour,EDGE/DE,Georgia Tech,,0
-4,25,1,New Orleans Breakers,James Folston Jr.,EDGE/DE,Pittsburgh,,0
-4,26,2,Pittsburgh Maulers,Eric Assoua,EDGE/DE,Western Michigan,,0
-4,27,3,Birmingham Stallions,Seth Thomas,EDGE/DE,Northern Iowa,,0
-4,28,4,Houston Gamblers,DreQuan Brown,EDGE/DE,Central Oklahoma,,0
-4,29,5,New Jersey Generals,New Jersey Generals,EDGE/DE,Jackson St.,,0
-4,30,6,Philadelphia Stars,Carroll Phillips,EDGE/DE,Illinois,PhilCa00,0
-4,31,7,Tampa Bay Bandits,Adam Shuler,EDGE/DE,Florida,ShulAd00,0
-4,32,8,Michigan Panthers,Chase Demoor,EDGE/DE,Central Washington,,0
-4,33,9,New Orleans Breakers,Nigel Chavis,EDGE/DE,Norfolk St.,,1
-4,34,10,Birmingham Stallions,Jonathan Newsome,EDGE/DE,Ball St.,NewsJo00,1
-5,35,1,Pittsburgh Maulers,Chidi Okeke,OT,Tennessee St.,OkekCh00,0
-5,36,2,Birmingham Stallions,Darius Harper,OT,Cincinnati,,0
-5,37,3,Houston Gamblers,Brandon Hitner,OT,Villanova,HitnBr00,0
-5,38,4,New Orleans Breakers,Paul Adams,OT,Missouri,AdamPa01,0
-5,39,5,Michigan Panthers,Keith Williams,OT,Colorado St.,,0
-5,40,6,New Jersey Generals,Garrett McGhin,OT,East Carolina,McGhGa01,0
-5,41,7,Philadelphia Stars,Blake Alan Camper,OT,South Carolina,,0
-5,42,8,Tampa Bay Bandits,Tyler Catalina,OT,Georgia,CataTy00,0
-6,43,1,Tampa Bay Bandits,Corbin Kaufusi,OT,BYU,KaufCo01,0
-6,44,2,Philadelphia Stars,Michael Rodriguez III,OT,Louisiana Tech,,0
-6,45,3,New Jersey Generals,Calvin Ashley,OT,Florida A&M,AshlCa00,0
-6,46,4,Michigan Panthers,Teton Saltes,OT,New Mexico,SaltTe00,0
-6,47,5,New Orleans Breakers,Donnell Greene,OT,Minnesota,GreeDo02,0
-6,48,6,Houston Gamblers,Avery Gennesy,OT,Texas A&M,GennAv00,0
-6,49,7,Birmingham Stallions,O'Shea Dugas,OT,Louisiana Tech,DugaOS00,0
-6,50,8,Pittsburgh Maulers,Isaiah Battle,OT,Clemson,BattIs00,0
-7,51,1,Pittsburgh Maulers,Charles Baldwin,OT,Youngstown St.,,0
-7,52,2,Birmingham Stallions,Justice Powers,OT,UAB,,0
-7,53,3,Houston Gamblers,John Yarbrough,OT,Richmond,,0
-7,54,4,New Orleans Breakers,Marquis Lucas,OT,West Virginia,LucaMa02,0
-7,55,5,Michigan Panthers,Joshua Dunlop,OT,UTSA,,0
-7,56,6,New Jersey Generals,Terry Poole,OT,San Diego St.,PoolTe00,0
-7,57,7,Philadelphia Stars,Jacob Paul Burton,OT,Baylor,BurtJa01,0
-7,58,8,Tampa Bay Bandits,Juwann Bushell-Beatty,OT,Michigan,,0
-7,59,9,Birmingham Stallions,Matthew Snow,OT,Pace,,1
-7,60,10,Michigan Panthers,Joshua Taylor,OT,Mississippi Valley St.,,1
-8,61,1,Tampa Bay Bandits,Delrick Abrams Jr.,CB,Colorado,AbraDe00,0
-8,62,2,Philadelphia Stars,Channing Stribling,CB,Michigan,StriCh00,0
-8,63,3,New Jersey Generals,De'Vante Bausby,CB,Pittsburgh St.,BausDe00,0
-8,64,4,Michigan Panthers,Tino Ellis,CB,Maryland,ElliTi00,0
-8,65,5,New Orleans Breakers,Adonis Alexander,CB,Virginia Tech,AlexAd00,0
-8,66,6,Houston Gamblers,Jamar Summers,CB,UConn,,0
-8,67,7,Birmingham Stallions,Brian Allen,CB,Utah,AlleBr01,0
-8,68,8,Pittsburgh Maulers,Ajene Harris,CB,USC,HarrAj00,0
-9,69,1,Pittsburgh Maulers,Terrell Bonds,CB,Tennessee St.,BondTe00,0
-9,70,2,Birmingham Stallions,Tae Hayes,CB,Appalachian St.,HayeTa00,0
-9,71,3,Houston Gamblers,Will Likely,CB,Maryland,LikeWi00,0
-9,72,4,New Orleans Breakers,Derrick Jones,CB,Ole Miss,JoneDe02,0
-9,73,5,Michigan Panthers,Jameson Houston,CB,Baylor,HousJa00,0
-9,74,6,New Jersey Generals,Trae Elston,CB,Mississippi,ElstTr01,0
-9,75,7,Philadelphia Stars,Marcus Lewis,CB,Maryland,,0
-9,76,8,Tampa Bay Bandits,Davante Davis,CB,Texas,DaviDa02,0
-10,77,1,Tampa Bay Bandits,Christian Campbell,CB,Penn St.,CampCh01,0
-10,78,2,Philadelphia Stars,Mazzi Wilkins,CB,South Florida,WilkMa00,0
-10,79,3,New Jersey Generals,David Rivers,CB,Youngstown St.,RiveDa00,0
-10,80,4,Michigan Panthers,Dominique Martin,CB,Tarleton St.,,0
-10,81,5,New Orleans Breakers,Manny Patterson,CB,Maine,PattMa01,0
-10,82,6,Houston Gamblers,Howard Wilson,CB,Houston,WilsHo00,0
-10,83,7,Birmingham Stallions,Bryan Mills,CB,North Carolina Central,MillBr05,0
-10,84,8,Pittsburgh Maulers,Prince Robinson,CB,Tarleton St.,,0
-11,85,1,Pittsburgh Maulers,Jaylon Mcclain-Sapp,CB,Marshall,McClJa03,0
-11,86,2,Birmingham Stallions,Lorenzo Burns,CB,Arizona,BurnLo00,0
-11,87,3,Houston Gamblers,Jerry Cantave,CB,William Jewell College,,0
-11,88,4,New Orleans Breakers,Ja'Len Embry,CB,Northern Illinois,,0
-11,89,5,Michigan Panthers,Jalin Burrell,CB,New Mexico,,0
-11,90,6,New Jersey Generals,DeJuan Neal,CB,Sheperd,,0
-11,91,7,Philadelphia Stars,Bradley Sylve,CB,Alabama,SylvBr00,0
-11,92,8,Tampa Bay Bandits,Rashard Causey Jr.,CB,Central Florida,CausRa00,0
-11,93,9,New Orleans Breakers,Ike Brown,CB,FIU,BrowIs00,1
-12,94,1,New Orleans Breakers,Zach Smith,QB,Tulsa,SmitZa01,0
-12,95,2,Pittsburgh Maulers,Josh Love,QB,San Jose St.,LoveJo05,0
-12,96,3,Birmingham Stallions,J'Mar Davis-Smith,QB,Louisiana Tech,,0
-12,97,4,Houston Gamblers,Kenji Bahar,QB,Monmouth,BahaKe00,0
-12,98,5,New Jersey Generals,De'Andre Johnson,QB,Texas Southern,,0
-12,99,6,Philadelphia Stars,Case Cookus,QB,Northern Arizona,,0
-12,100,7,Tampa Bay Bandits,Brady White,QB,Memphis,WhitBr00,0
-12,101,8,Michigan Panthers,Paxton Lynch,QB,Memphis,LyncPa00,0
+﻿Round,Pick#,RoundPick#,Team,Player,Position,College,PFR_id,CompPick,PassForFuturePick
+1,1,1,Michigan Panthers,Shea Patterson,QB,Michigan,PattSh00,0,0
+1,2,2,Tampa Bay Bandits,Jordan Ta'amu,QB,Mississippi,TaamJo01,0,0
+1,3,3,Philadelphia Stars,Bryan Scott,QB,Occidental,,0,0
+1,4,4,New Jersey Generals,Ben Holmes,QB,Tarleton,,0,0
+1,5,5,Houston Gamblers,Clayton Thorson,QB,Northwestern,ThorCl00,0,0
+1,6,6,Birmingham Stallions,Alex McGough,QB,FIU,McGoAl00,0,0
+1,7,7,Pittsburgh Maulers,Kyle Lauletta,QB,Richmond,LaulKy00,0,0
+1,8,8,New Orleans Breakers,Kyle Sloter,QB,Northern Colorado,SlotKy00,0,0
+2,9,1,New Orleans Breakers,Davin Bellamy,EDGE/DE,Georgia,BellDa01,0,0
+2,10,2,Pittsburgh Maulers,Carlo Kemp,EDGE/DE,Michigan,KempCa00,0,0
+2,11,3,Birmingham Stallions,Aaron Adeoye,EDGE/DE,SE Missouri St.,AdeoAa00,0,0
+2,12,4,Houston Gamblers,Chris Odom,EDGE/DE,Arkansas St.,OdomCh00,0,0
+2,13,5,New Jersey Generals,Bryson Young,EDGE/DE,Oregon,,0,0
+2,14,6,Philadelphia Stars,Freedom Akinmoladun,EDGE/DE,Nebraska,AkinFr01,0,0
+2,15,7,Tampa Bay Bandits,Mekhi Brown,EDGE/DE,Tennessee St.,,0,0
+2,16,8,Michigan Panthers,Adewale Adeoye,EDGE/DE,Utah St.,,0,0
+3,17,1,Michigan Panthers,Cavon Walker,EDGE/DE,Maryland,WalkCa01,0,0
+3,18,2,Tampa Bay Bandits,Michael Scott,EDGE/DE,Oklahoma St.,,0,0
+3,19,3,Philadelphia Stars,Gus Cumberlander,EDGE/DE,Oregon,,0,0
+3,20,4,New Jersey Generals,Kolin Hill,EDGE/DE,Texas Tech,,0,0
+3,21,5,Houston Gamblers,Ahmad Gooden,EDGE/DE,Samford,GoodAh00,0,0
+3,22,6,Birmingham Stallions,Chauncy Haney,EDGE/DE,North Greenvillle,,0,0
+3,23,7,Pittsburgh Maulers,Nasir Player,EDGE/DE,East Tennessee St.,,0,0
+3,24,8,New Orleans Breakers,Anree Saint-Amour,EDGE/DE,Georgia Tech,,0,0
+4,25,1,New Orleans Breakers,James Folston Jr.,EDGE/DE,Pittsburgh,,0,0
+4,26,2,Pittsburgh Maulers,Eric Assoua,EDGE/DE,Western Michigan,,0,0
+4,27,3,Birmingham Stallions,Seth Thomas,EDGE/DE,Northern Iowa,,0,0
+4,28,4,Houston Gamblers,DreQuan Brown,EDGE/DE,Central Oklahoma,,0,0
+4,29,5,New Jersey Generals,New Jersey Generals,EDGE/DE,Jackson St.,,0,0
+4,30,6,Philadelphia Stars,Carroll Phillips,EDGE/DE,Illinois,PhilCa00,0,0
+4,31,7,Tampa Bay Bandits,Adam Shuler,EDGE/DE,Florida,ShulAd00,0,0
+4,32,8,Michigan Panthers,Chase Demoor,EDGE/DE,Central Washington,,0,0
+4,33,9,New Orleans Breakers,Nigel Chavis,EDGE/DE,Norfolk St.,,1,0
+4,34,10,Birmingham Stallions,Jonathan Newsome,EDGE/DE,Ball St.,NewsJo00,1,0
+5,35,1,Pittsburgh Maulers,Chidi Okeke,OT,Tennessee St.,OkekCh00,0,0
+5,36,2,Birmingham Stallions,Darius Harper,OT,Cincinnati,,0,0
+5,37,3,Houston Gamblers,Brandon Hitner,OT,Villanova,HitnBr00,0,0
+5,38,4,New Orleans Breakers,Paul Adams,OT,Missouri,AdamPa01,0,0
+5,39,5,Michigan Panthers,Keith Williams,OT,Colorado St.,,0,0
+5,40,6,New Jersey Generals,Garrett McGhin,OT,East Carolina,McGhGa01,0,0
+5,41,7,Philadelphia Stars,Blake Alan Camper,OT,South Carolina,,0,0
+5,42,8,Tampa Bay Bandits,Tyler Catalina,OT,Georgia,CataTy00,0,0
+6,43,1,Tampa Bay Bandits,Corbin Kaufusi,OT,BYU,KaufCo01,0,0
+6,44,2,Philadelphia Stars,Michael Rodriguez III,OT,Louisiana Tech,,0,0
+6,45,3,New Jersey Generals,Calvin Ashley,OT,Florida A&M,AshlCa00,0,0
+6,46,4,Michigan Panthers,Teton Saltes,OT,New Mexico,SaltTe00,0,0
+6,47,5,New Orleans Breakers,Donnell Greene,OT,Minnesota,GreeDo02,0,0
+6,48,6,Houston Gamblers,Avery Gennesy,OT,Texas A&M,GennAv00,0,0
+6,49,7,Birmingham Stallions,O'Shea Dugas,OT,Louisiana Tech,DugaOS00,0,0
+6,50,8,Pittsburgh Maulers,Isaiah Battle,OT,Clemson,BattIs00,0,0
+7,51,1,Pittsburgh Maulers,Charles Baldwin,OT,Youngstown St.,,0,0
+7,52,2,Birmingham Stallions,Justice Powers,OT,UAB,,0,0
+7,53,3,Houston Gamblers,John Yarbrough,OT,Richmond,,0,0
+7,54,4,New Orleans Breakers,Marquis Lucas,OT,West Virginia,LucaMa02,0,0
+7,55,5,Michigan Panthers,Joshua Dunlop,OT,UTSA,,0,0
+7,56,6,New Jersey Generals,Terry Poole,OT,San Diego St.,PoolTe00,0,0
+7,57,7,Philadelphia Stars,Jacob Paul Burton,OT,Baylor,BurtJa01,0,0
+7,58,8,Tampa Bay Bandits,Juwann Bushell-Beatty,OT,Michigan,,0,0
+7,59,9,Birmingham Stallions,Matthew Snow,OT,Pace,,1,0
+7,60,10,Michigan Panthers,Joshua Taylor,OT,Mississippi Valley St.,,1,0
+8,61,1,Tampa Bay Bandits,Delrick Abrams Jr.,CB,Colorado,AbraDe00,0,0
+8,62,2,Philadelphia Stars,Channing Stribling,CB,Michigan,StriCh00,0,0
+8,63,3,New Jersey Generals,De'Vante Bausby,CB,Pittsburgh St.,BausDe00,0,0
+8,64,4,Michigan Panthers,Tino Ellis,CB,Maryland,ElliTi00,0,0
+8,65,5,New Orleans Breakers,Adonis Alexander,CB,Virginia Tech,AlexAd00,0,0
+8,66,6,Houston Gamblers,Jamar Summers,CB,UConn,,0,0
+8,67,7,Birmingham Stallions,Brian Allen,CB,Utah,AlleBr01,0,0
+8,68,8,Pittsburgh Maulers,Ajene Harris,CB,USC,HarrAj00,0,0
+9,69,1,Pittsburgh Maulers,Terrell Bonds,CB,Tennessee St.,BondTe00,0,0
+9,70,2,Birmingham Stallions,Tae Hayes,CB,Appalachian St.,HayeTa00,0,0
+9,71,3,Houston Gamblers,Will Likely,CB,Maryland,LikeWi00,0,0
+9,72,4,New Orleans Breakers,Derrick Jones,CB,Ole Miss,JoneDe02,0,0
+9,73,5,Michigan Panthers,Jameson Houston,CB,Baylor,HousJa00,0,0
+9,74,6,New Jersey Generals,Trae Elston,CB,Mississippi,ElstTr01,0,0
+9,75,7,Philadelphia Stars,Marcus Lewis,CB,Maryland,,0,0
+9,76,8,Tampa Bay Bandits,Davante Davis,CB,Texas,DaviDa02,0,0
+10,77,1,Tampa Bay Bandits,Christian Campbell,CB,Penn St.,CampCh01,0,0
+10,78,2,Philadelphia Stars,Mazzi Wilkins,CB,South Florida,WilkMa00,0,0
+10,79,3,New Jersey Generals,David Rivers,CB,Youngstown St.,RiveDa00,0,0
+10,80,4,Michigan Panthers,Dominique Martin,CB,Tarleton St.,,0,0
+10,81,5,New Orleans Breakers,Manny Patterson,CB,Maine,PattMa01,0,0
+10,82,6,Houston Gamblers,Howard Wilson,CB,Houston,WilsHo00,0,0
+10,83,7,Birmingham Stallions,Bryan Mills,CB,North Carolina Central,MillBr05,0,0
+10,84,8,Pittsburgh Maulers,Prince Robinson,CB,Tarleton St.,,0,0
+11,85,1,Pittsburgh Maulers,Jaylon Mcclain-Sapp,CB,Marshall,McClJa03,0,0
+11,86,2,Birmingham Stallions,Lorenzo Burns,CB,Arizona,BurnLo00,0,0
+11,87,3,Houston Gamblers,Jerry Cantave,CB,William Jewell College,,0,0
+11,88,4,New Orleans Breakers,Ja'Len Embry,CB,Northern Illinois,,0,0
+11,89,5,Michigan Panthers,Jalin Burrell,CB,New Mexico,,0,0
+11,90,6,New Jersey Generals,DeJuan Neal,CB,Sheperd,,0,0
+11,91,7,Philadelphia Stars,Bradley Sylve,CB,Alabama,SylvBr00,0,0
+11,92,8,Tampa Bay Bandits,Rashard Causey Jr.,CB,Central Florida,CausRa00,0,0
+11,93,9,New Orleans Breakers,Ike Brown,CB,FIU,BrowIs00,1,0
+12,94,1,New Orleans Breakers,Zach Smith,QB,Tulsa,SmitZa01,0,0
+12,95,2,Pittsburgh Maulers,Josh Love,QB,San Jose St.,LoveJo05,0,0
+12,96,3,Birmingham Stallions,J'Mar Davis-Smith,QB,Louisiana Tech,,0,0
+12,97,4,Houston Gamblers,Kenji Bahar,QB,Monmouth,BahaKe00,0,0
+12,98,5,New Jersey Generals,De'Andre Johnson,QB,Texas Southern,,0,0
+12,99,6,Philadelphia Stars,Case Cookus,QB,Northern Arizona,,0,0
+12,100,7,Tampa Bay Bandits,Brady White,QB,Memphis,WhitBr00,0,0
+12,101,8,Michigan Panthers,Paxton Lynch,QB,Memphis,LyncPa00,0,0
+13,102,1,Birmingham Stallions,Victor Bolden Jr.,WR,Oregon St.,BoldVi00,0,0
+13,103,2,Houston Gamblers,Isaiah Zuber,WR,Kansas St.,ZubeIs00,0,0
+13,104,3,New Orleans Breakers,Shawn Poindexter,WR,Arizona,PoinSh00,0,0
+13,105,4,Pittsburgh Maulers,Jeffrey Thomas,WR,Miami,ThomJe04,0,0
+13,106,5,Tampa Bay Bandits,Eli Rogers,WR,Louisville,RogeEl00,0,0
+13,107,6,Michigan Panthers,Quincy Adeboyejo,WR,Ole Miss,AdebQu00,0,0
+13,108,7,New Jersey Generals,Kavontae Turpin,WR,TCU,,0,0
+13,109,8,Philadelphia Stars,Devin Gray,WR,Cincinnati,GrayDe02,0,0
+14,110,1,Philadelphia Stars,Jordan Suell,WR,Southern Oregon,,0,0
+14,111,2,New Jersey Generals,J'Mon Moore,WR,Missouri,MoorJM00,0,0
+14,112,3,Michigan Panthers,Lance Lenoir,WR,Western Illinois,LenoLa00,0,0
+14,113,4,Tampa Bay Bandits,Derrick Willies,WR,Texas Tech,WillDe06,0,0
+14,114,5,Pittsburgh Maulers,Bailey Gaither,WR,San Jose St.,GaitBa00,0,0
+14,115,6,New Orleans Breakers,Johnnie Dixon,WR,Ohio St.,DixoJo01,0,0
+14,116,7,Houston Gamblers,Jojo Ward,WR,Hawaii,,0,0
+14,117,8,Birmingham Stallions,Joseph Emanuel Hall,WR,Missouri,HallEm01,0,0
+15,118,1,Birmingham Stallions,Osirus Mitchell,WR,Mississippi St.,MitcOs00,0,0
+15,119,2,Houston Gamblers,Anthony Ratliff-Williams,WR,North Carolina,RatlAn01,0,0
+15,120,3,New Orleans Breakers,Jonathan Adams,WR,Arkansas St.,AdamJo04,0,0
+15,121,4,Pittsburgh Maulers,Branden Mack,WR,Temple,MackBr00,0,0
+15,122,5,Tampa Bay Bandits,Derrick Dillon,WR,LSU,DillDe00,0,0
+15,123,6,Michigan Panthers,Jeff Badet,WR,Oklahoma,BadeJe00,0,0
+15,124,7,New Jersey Generals,Darrius Shepherd,WR,North Dakota St.,ShepDa00,0,0
+15,125,8,Philadelphia Stars,Brennan Eagles,WR,Texas,EaglBr00,0,0
+16,126,1,Philadelphia Stars,Diondre Overton,WR,Clemson,,0,0
+16,127,2,New Jersey Generals,Christopher Platt Jr.,WR,Baylor,,0,0
+16,128,3,Michigan Panthers,Ray Bolden,WR,Stony Brook,,0,0
+16,129,4,Tampa Bay Bandits,Jordan Lasley,WR,UCLA,LaslJo00,0,0
+16,130,5,Pittsburgh Maulers,Delvon Hardaway,WR,Fresno St.,,0,0
+16,131,6,New Orleans Breakers,Taywan Taylor,WR,Western Kentucky,TaylTa00,0,0
+16,132,7,Houston Gamblers,Tyler Simmons,WR,Georgia,SimmTy00,0,0
+16,133,8,Birmingham Stallions,Peyton Ramzy,WR,Tuskegee,,0,0
+17,134,1,Birmingham Stallions,Manasseh Bailey,WR,Morgan St.,BailMa02,0,0
+17,135,2,Houston Gamblers,,,,,0,1
+17,136,3,New Orleans Breakers,Chad Williams,WR,Grambling St.,WillCh05,0,0
+17,137,4,Pittsburgh Maulers,Tre Walker,WR,San Jose St.,WalkTr02,0,0
+17,138,5,Tampa Bay Bandits,John Franklin III,WR,FAU,FranJo04,0,0
+17,139,6,Michigan Panthers,,,,,0,1
+17,140,7,New Jersey Generals,Randy Satterfield,WR,Lyon,,0,0
+17,141,8,Philadelphia Stars,Maurice Alexander,WR,FIU,,0,0
+17,142,9,Tampa Bay Bandits,Vinny Papale,WR,Delaware,,1,0
+18,143,1,Philadelphia Stars,Jack Tocho,S,NC State,TochJa00,0,0
+18,144,2,New Jersey Generals,Shalom Luani,S,Washington St.,LuanSh00,0,0
+18,145,3,Michigan Panthers,Orion Stewart,S,Baylor,StewOr00,0,0
+18,146,4,Tampa Bay Bandits,Obi Melifonwu,S,UConn,MeliOb00,0,0
+18,147,5,Pittsburgh Maulers,Arnold Tarpley III,S,Vanderbilt,,0,0
+18,148,6,New Orleans Breakers,Dartez Jacobs,S,Georgia St.,,0,0
+18,149,7,Houston Gamblers,Andrew Soroh,S,FAU,,0,0
+18,150,8,Birmingham Stallions,Christian McFarland,S,Idaho St.,,0,0
+19,151,1,Birmingham Stallions,Tyree Robinson,S,Oregon,RobiTy00,0,0
+19,152,2,Houston Gamblers,Manny Bunch,S,Tulsa,,0,0
+19,153,3,New Orleans Breakers,,,,,0,1
+19,154,4,Pittsburgh Maulers,Bryce Torneden,S,Kansas,,0,0
+19,155,5,Tampa Bay Bandits,Anthony Gioffi,S,Rutgers,,0,0
+19,156,6,Michigan Panthers,Kieron Williams,S,Nebraska,,0,0
+19,157,7,New Jersey Generals,Dravon Askew-Henry,S,West Virginia,,0,0
+19,158,8,Philadelphia Stars,Cody Brown,S,Arkansas St.,BrowCo01,0,0
+19,159,9,Philadelphia Stars,Ladarius Wiley,S,Vanderbilt,,1,0
+20,160,1,New Jersey Generals,Jake Lacina,OC,Augustana (SD),,0,0
+20,161,2,Michigan Panthers,Sean Richard Pollard,OC,Clemson,,0,0
+20,162,3,Tampa Bay Bandits,Bruno Reagan,OC,Vanderbilt,,0,0
+20,163,4,Philadelphia Stars,Sean Brown,OC,Mississippi Valley St.,,0,0
+20,164,5,Birmingham Stallions,Jordan McCray,OC,UCF,McCrJo00,0,0
+20,165,6,Pittsburgh Maulers,Nicholas Falah,OC,USC,FalaNi00,0,0
+20,166,7,New Orleans Breakers,Jared Thomas,OC,Northwestern,,0,0
+20,167,8,Houston Gamblers,Nick Buchanan,OC,Florida,,0,0
+20,168,9,Pittsburgh Maulers,Brayden Patton,OC,Arkansas,,0,0
+21,169,1,Houston Gamblers,Beniquez Brown,ILB,Mississippi St.,BrowBe00,0,0
+21,170,2,New Orleans Breakers,Jerod Fernandez,ILB,NC State,,0,0
+21,171,3,Pittsburgh Maulers,EJ Ejiya,ILB,North Texas,,0,0
+21,172,4,Birmingham Stallions,Scooby Wright,ILB,Arizona,WrigSc00,0,0
+21,173,5,Philadelphia Stars,Josh Banderas,ILB,Nebraska,BandJo00,0,0
+21,174,6,Tampa Bay Bandits,Christian Sam,ILB,Arizona St.,SamxCh00,0,0
+21,175,7,Michigan Panthers,Justin Lorenz Hughes,ILB,Kansas St.,,0,0
+21,176,8,New Jersey Generals,Chris Orr,ILB,Wisconsin,OrrxCh00,0,0
+21,177,9,Houston Gamblers,Reggie Northrup,ILB,Florida St.,NortRe01,1,0
+21,178,10,Birmingham Stallions,Jason Ferris,ILB,Montana Western,,1,0
+21,179,11,Michigan Panthers,Taiwan Jones,ILB,Michigan St.,JoneTa01,1,0
+22,180,1,New Orleans Breakers,Steven Rowzee,OG,Troy,,0,0
+22,181,2,Pittsburgh Maulers,Vadal Alexander,OG,LSU,AlexVa00,0,0
+22,182,3,Birmingham Stallions,Cameron Hunt,OG,Oregon,HuntCa01,0,0
+22,183,4,Houston Gamblers,Tyler Higby,OG,Michigan St.,,0,0
+22,184,5,New Jersey Generals,Jackson Brown,OG,Northern Iowa,,0,0
+22,185,6,Philadelphia Stars,Fred Lauina,OG,Oregon St.,,0,0
+22,186,7,Tampa Bay Bandits,Mike Brown,OG,West Virginia,,0,0
+22,187,8,Michigan Panthers,Marquel Harrell,OG,Auburn,HarrMa07,0,0
+23,188,1,Michigan Panthers,Daishawn Dixon,OG,San Diego St.,,0,0
+23,189,2,Tampa Bay Bandits,Damien Mama,OG,USC,,0,0
+23,190,3,Philadelphia Stars,Paul Nosworthy,OG,Buffalo,,0,0
+23,191,4,New Jersey Generals,Evan Heim,OG,Minnesota St.,,0,0
+23,192,5,Houston Gamblers,Terronne Prescod,OG,NC State,,0,0
+23,193,6,Birmingham Stallions,,,,,0,1
+23,194,7,Pittsburgh Maulers,Jon Dietzen,OG,Wisconsin,DietJo00,0,0
+23,195,8,New Orleans Breakers,Liam Dobson,OG,Texas St.,,0,0
+23,196,9,New Orleans Breakers,Jalen Allen,OG,Charlotte,,0,0
+24,197,1,Michigan Panthers,TJ Carter,DT,Kentucky,,0,0
+24,198,2,Tampa Bay Bandits,Daylon Mack,DT,Texas A&M,MackDa00,0,0
+24,199,3,Philadelphia Stars,Mike Barnett,DT,Georgia,,0,0
+24,200,4,New Jersey Generals,Destiny Vaeao,DT,Washington St.,VaeaDe01,0,0
+24,201,5,Houston Gamblers,Cory Thomas,DT,Mississippi St.,,0,0
+24,202,6,Birmingham Stallions,Willie Yarbary,DT,Wake Forest,,0,0
+24,203,7,Pittsburgh Maulers,Olive Sagapolu,DT,Wisconsin,SagaOl01,0,0
+24,204,8,New Orleans Breakers,Shakir Soto,DT,Pittsburgh,SotoSh00,0,0
+25,205,1,New Orleans Breakers,Kamilo Tongamoa,DT,Iowa St.,,0,0
+25,206,2,Pittsburgh Maulers,Boogie Roberts,DT,San Jose St.,,0,0
+25,207,3,Birmingham Stallions,Haston Adams,DT,Mary Hardin-Baylor,,0,0
+25,208,4,Houston Gamblers,Tomasi Laulile,DT,BYU,LaulTo00,0,0
+25,209,5,New Jersey Generals,Toby Johnson,DT,Georgia,JohnTo02,0,0
+25,210,6,Philadelphia Stars,Chris Nelson,DT,Texas,NelsCh00,0,0
+25,211,7,Tampa Bay Bandits,Reggie Howard,DT,Toledo,,0,0
+25,212,8,Michigan Panthers,Jaquan Bailey,DT,Iowa St.,BailJa01,0,0
+26,213,1,New Orleans Breakers,Kyshonn Tyson,DT,Grand Valley St.,,0,0
+26,214,2,Pittsburgh Maulers,John Atkins,DT,Georgia,AtkiJo01,0,0
+26,215,3,Birmingham Stallions,Jerome Johnson,DT,Indiana,JohnJe06,0,0
+26,216,4,Houston Gamblers,Kalani Vakameilalo,DT,Oregon St.,,0,0
+26,217,5,New Jersey Generals,Domenique Davis,DT,UNC Pembroke,,0,0
+26,218,6,Philadelphia Stars,,,,,0,1
+26,219,7,Tampa Bay Bandits,Jeremiah Pharms Jr.,DT,Friends,,0,0
+26,220,8,Michigan Panthers,Connor Christian,DT,Jacksonville St.,,0,0
+26,221,9,New Orleans Breakers,Chris Okoye,DT,Ferris St.,OkoyCh01,1,0
+27,222,1,Tampa Bay Bandits,BJ Emmons,RB,FAU,EmmoBJ00,0,0
+27,223,2,Philadelphia Stars,Darnell Holland,RB,Kennesaw St.,,0,0
+27,224,3,New Jersey Generals,Mike Weber,RB,Ohio St.,WebeMi00,0,0
+27,225,4,Michigan Panthers,Stevie Scott III,RB,Indiana,ScotSt00,0,0
+27,226,5,New Orleans Breakers,Larry Rose III,RB,New Mexico St.,,0,0
+27,227,6,Houston Gamblers,Dalyn Dawkins,RB,Colorado St.,DawkDa01,0,0
+27,228,7,Birmingham Stallions,Tony Brooks-James,RB,Oregon,BrooTo01,0,0
+27,229,8,Pittsburgh Maulers,Garret Groshek,RB,Wisconsin,GrosGa00,0,0
+28,230,1,Pittsburgh Maulers,De'Veon Smith,RB,Michigan,SmitDe06,0,0
+28,231,2,Birmingham Stallions,CJ Marable,RB,Coastal Carolina,MaraCJ00,0,0
+28,232,3,Houston Gamblers,Mark Thompson,RB,Florida,ThomMa02,0,0
+28,233,4,New Orleans Breakers,Jordan Ellis,RB,Virginia,ElliJo01,0,0
+28,234,5,Michigan Panthers,Reggie Corbin,RB,Illinois,CorbRe00,0,0
+28,235,6,New Jersey Generals,Trey Williams,RB,Texas A&M,WillTr03,0,0
+28,236,7,Philadelphia Stars,Matt Colburn II,RB,Wake Forest,ColbMa00,0,0
+28,237,8,Tampa Bay Bandits,Juwan Washington,RB,San Diego St.,,0,0
+29,238,1,Pittsburgh Maulers,Tyson Graham,OLB,South Dakota,,0,0
+29,239,2,Birmingham Stallions,DeMarquis Gates,OLB,Ole Miss,,0,0
+29,240,3,Houston Gamblers,Azeem Victor,OLB,Washington,VictAz00,0,0
+29,241,4,New Orleans Breakers,Diondre Wallace,OLB,Towson St.,,0,0
+29,242,5,Michigan Panthers,Terry Myrick,OLB,Eastern Michigan,,0,0
+29,243,6,New Jersey Generals,D'Juan Hines,OLB,Houston,HineDJ00,0,0
+29,244,7,Philadelphia Stars,Jordan Moore,OLB,UTSA,MoorJo01,0,0
+29,245,8,Tampa Bay Bandits,Emmanuel Beal,OLB,Oklahoma,BealEm00,0,0
+30,246,1,Tampa Bay Bandits,Greg Reaves,OLB,USF,,0,0
+30,247,2,Philadelphia Stars,Te'Von Coney,OLB,Notre Dame,ConeTe01,0,0
+30,248,3,New Jersey Generals,Tim Walton Jr.,OLB,Texas Southern,,0,0
+30,249,4,Michigan Panthers,Frank Ginda,OLB,San Jose St.,,0,0
+30,250,5,New Orleans Breakers,Vontae Diggs,OLB,UConn,,0,0
+30,251,6,Houston Gamblers,Donald Payne,OLB,Stetson,PaynDo00,0,0
+30,252,7,Birmingham Stallions,Terrill Hanks,OLB,New Mexico ST.,HankTe01,0,0
+30,253,8,Pittsburgh Maulers,Malcolm Howard,OLB,Oklahoma,,0,0
+31,254,1,Pittsburgh Maulers,Kyahva Tezino,OLB,San Diego St.,TeziKy00,0,0
+31,255,2,Birmingham Stallions,Brody Buck,OLB,NW Missouri St.,,0,0
+31,256,3,Houston Gamblers,Drew Lewis,OLB,Colorado,,0,0
+31,257,4,New Orleans Breakers,,,,,0,1
+31,258,5,Michigan Panthers,Tre Threat,OLB,Jacksonville St.,,0,0
+31,259,6,New Jersey Generals,Angelo Garbutt,OLB,Missouri St./Iowa,,0,0
+31,260,7,Philadelphia Stars,Solomon Wise,OLB,Alcorn St.,,0,0
+31,261,8,Tampa Bay Bandits,,,,,0,1
+32,262,1,Philadelphia Stars,Matt Mengel,K,UCLA,,0,0
+32,263,2,New Jersey Generals,Nick Rose,K,Texas,RoseNi00,0,0
+32,264,3,Michigan Panthers,,,,,0,1
+32,265,4,Tampa Bay Bandits,Brandon Wright,K,Georgia St.,WrigBr00,0,0
+32,266,5,Pittsburgh Maulers,,,,,0,1
+32,267,6,New Orleans Breakers,Austin MacGinnis,K,Kentucky,MacGAu00,0,0
+32,268,7,Houston Gamblers,Nick Vogel,K,UAB,,0,0
+32,269,8,Birmingham Stallions,Brandon Aubrey,K,Notre Dame,,0,0
+33,270,1,Birmingham Stallions,Colby Wadman,P,UC Davis,WadmCo00,0,0
+33,271,2,Houston Gamblers,Andrew Galitz,P,Baylor,,0,0
+33,272,3,New Orleans Breakers,,,,,0,1
+33,273,4,Pittsburgh Maulers,,,,,0,1
+33,274,5,Tampa Bay Bandits,,,,,0,1
+33,275,6,Michigan Panthers,Michael Carrizosa,P,San Jose St.,,0,0
+33,276,7,New Jersey Generals,,,,,0,1
+33,277,8,Philadelphia Stars,,,,,0,1
+34,278,1,Houston Gamblers,Brandon Barnes,TE,Alabama St.,BarnBr00,0,0
+34,279,2,New Orleans Breakers,Sal Cannella,TE,Auburn,,0,0
+34,280,3,Pittsburgh Maulers,Matt Seybert,TE,Michigan St.,,0,0
+34,281,4,Birmingham Stallions,Cary Angeline,TE,NC State,AngeCa00,0,0
+34,282,5,Philadelphia Stars,Alton 'Bug' Howard,TE,North Carolina,HowaBu00,0,0
+34,283,6,Tampa Bay Bandits,Cheyenne O'Grady,TE,Arkansas,,0,0
+34,284,7,Michigan Panthers,Joseph Magnifico,TE,Memphis,,0,0
+34,285,8,New Jersey Generals,Braedon Bowman,TE,South Alabama,BowmBr00,0,0
+34,286,9,Houston Gamblers,Julian Allen,TE,Southern Miss,,0,0
+34,287,10,Tampa Bay Bandits,De'Quan Hampton,TE,USC,HampDe01,0,0
+34,288,11,Michigan Panthers,La'Michael Pettway,TE,Iowa St.,,0,0
+34,289,12,New Jersey Generals,Nicholas Truesdell,TE,Grand Rapids CC,,0,0
+35,290,1,New Jersey Generals,Scott Flanick,LS,Army,,0,0
+35,291,2,Michigan Panthers,,,,,0,1
+35,292,3,Tampa Bay Bandits,Ryan Disalvo,LS,San Jose St.,,0,0
+35,293,4,Philadelphia Stars,Ryan Navarro,LS,Oregon St.,,0,0
+35,294,5,Birmingham Stallions,,,,,0,1
+35,295,6,Pittsburgh Maulers,Mitchell Fraboni,LS,Arizona St.,,0,0
+35,296,7,New Orleans Breakers,,,,,0,1
+35,297,8,Houston Gamblers,,,,,0,1
