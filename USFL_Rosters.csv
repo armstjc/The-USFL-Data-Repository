@@ -1,0 +1,373 @@
+﻿Season,TeamID,TeamName,PlayerNum,PlayerName,POS,AGE,HT,WT,COLLEGE
+2022,BIR,Birmingham Stallions,0,Ryan Langan,LS,,"6'1""",237,Georgia Southern
+2022,BIR,Birmingham Stallions,1,Peyton Ramzy,WR,,"6'1""",173,Tuskegee
+2022,BIR,Birmingham Stallions,2,Alex McGough,QB,26,"6'3""",214,Florida International
+2022,BIR,Birmingham Stallions,3,Tae Hayes,CB,24,"5'9""",182,Appalachian State
+2022,BIR,Birmingham Stallions,4,Osirus Mitchell,WR,23,"6'5""",210,Mississippi State
+2022,BIR,Birmingham Stallions,5,Christian McFarland,S,,"5'11""",200,Idaho State
+2022,BIR,Birmingham Stallions,6,J'Mar Smith,QB,25,"6'1""",218,Louisiana Tech
+2022,BIR,Birmingham Stallions,7,Victor Bolden Jr.,WR,27,"5'9""",175,Oregon State
+2022,BIR,Birmingham Stallions,8,Michael Dereus,WR,25,"6'1""",209,Georgetown
+2022,BIR,Birmingham Stallions,9,Tyree Robinson,S,28,"6'2""",215,Oregon
+2022,BIR,Birmingham Stallions,10,Brandon Aubrey,K,27,"6'3""",200,Notre Dame
+2022,BIR,Birmingham Stallions,11,CJ Marable,RB,25,"5'11""",194,Coastal Carolina
+2022,BIR,Birmingham Stallions,13,Manasseh Bailey,WR,24,"5'11""",190,Morgan State
+2022,BIR,Birmingham Stallions,14,Sage Surratt,TE,24,"6'3""",234,Wake Forest
+2022,BIR,Birmingham Stallions,15,Colby Wadman,P,26,"6'1""",185,UC Davis
+2022,BIR,Birmingham Stallions,17,Marlon Williams,WR,,"5'11""",204,UCF
+2022,BIR,Birmingham Stallions,20,Tony Brooks-James,RB,27,"5'9""",190,Oregon
+2022,BIR,Birmingham Stallions,21,Bryan Mills,CB,22,"6'1""",174,North Carolina Central
+2022,BIR,Birmingham Stallions,22,Lorenzo Burns,LB,24,"5'11""",183,Arizona
+2022,BIR,Birmingham Stallions,26,Josh Shaw,CB,30,"6'0""",195,USC
+2022,BIR,Birmingham Stallions,27,JoJo Tillery,S,24,"6'2""",210,Wofford
+2022,BIR,Birmingham Stallions,29,Brian Allen,CB,28,"6'3""",210,Utah
+2022,BIR,Birmingham Stallions,33,Scooby Wright III,LB,27,"6'1""",246,Arizona
+2022,BIR,Birmingham Stallions,36,Nate Holley,S,27,"6'1""",210,Kent State
+2022,BIR,Birmingham Stallions,38,Jordan Chunn,RB,27,"6'0""",230,Troy
+2022,BIR,Birmingham Stallions,40,Brody Buck,LB,,"6'1""",230,Northwest Missouri State
+2022,BIR,Birmingham Stallions,41,Jason Ferris,LB,25,"6'3""",220,Montana Western
+2022,BIR,Birmingham Stallions,44,Bobby Holly,FB,24,"5'11""",240,Louisiana Tech
+2022,BIR,Birmingham Stallions,47,DeMarquis Gates,LB,26,"6'2""",230,Ole Miss
+2022,BIR,Birmingham Stallions,50,Justice Powers,T,26,"6'3""",295,UAB
+2022,BIR,Birmingham Stallions,51,Jordan McCray,C,29,"6'2""",280,UCF
+2022,BIR,Birmingham Stallions,53,Matthew Snow,T,,"6'6""",325,Pace
+2022,BIR,Birmingham Stallions,55,Jonathan Newsome,DE,31,"6'4""",256,Ball State
+2022,BIR,Birmingham Stallions,57,Terrill Hanks,LB,26,"6'3""",220,New Mexico State
+2022,BIR,Birmingham Stallions,73,Darius Harper,T,24,"6'6""",310,Cincinnati
+2022,BIR,Birmingham Stallions,74,O'Shea Dugas,T,25,"6'4""",335,Louisiana Tech
+2022,BIR,Birmingham Stallions,76,Marquez Tucker,OL,25,"6'4""",291,Southern Utah
+2022,BIR,Birmingham Stallions,77,Ryan Pope,OL,25,"6'7""",315,San Diego State
+2022,BIR,Birmingham Stallions,78,Cameron Hunt,G,27,"6'4""",305,Oregon
+2022,BIR,Birmingham Stallions,86,Cary Angeline,TE,24,"6'7""",250,North Carolina State
+2022,BIR,Birmingham Stallions,90,Aaron Adeoye,DE,28,"6'6""",273,Southeast Missouri State
+2022,BIR,Birmingham Stallions,91,Chauncy Haney,DE,23,"6'5""",260,North Greenville
+2022,BIR,Birmingham Stallions,95,Seth Thomas,DE,,"6'6""",270,Northern Iowa
+2022,BIR,Birmingham Stallions,96,Jordan Thompson,DT,,"6'2""",292,Northwestern
+2022,BIR,Birmingham Stallions,97,Willie Yarbary,DT,25,"6'3""",295,Wake Forest
+2022,BIR,Birmingham Stallions,99,Dondrea Tillman,DE,,"6'3""",247,Indiana (PA)
+2022,HOU,Houston Gamblers,1,Isaiah Zuber,WR,25,"6'0""",190,Mississippi State
+2022,HOU,Houston Gamblers,2,Dalyn Dawkins,RB,27,"5'7""",183,Colorado State
+2022,HOU,Houston Gamblers,3,Azeem Victor,LB,26,"6'3""",231,Washington
+2022,HOU,Houston Gamblers,4,Will Likely,CB,27,"5'7""",179,Maryland
+2022,HOU,Houston Gamblers,5,Reggie Northrup,LB,28,"6'1""",220,Florida State
+2022,HOU,Houston Gamblers,7,Mark Thompson,RB,27,"6'2""",235,Florida
+2022,HOU,Houston Gamblers,8,Brandon Barnes,TE,27,"6'4""",255,Alabama State
+2022,HOU,Houston Gamblers,9,Andrew Soroh,S,26,"6'0""",185,Florida Atlantic
+2022,HOU,Houston Gamblers,10,Tyler Simmons,WR,24,"6'2""",201,Georgia
+2022,HOU,Houston Gamblers,11,Kenji Bahar,QB,24,"6'3""",200,Monmouth
+2022,HOU,Houston Gamblers,12,Devwah Whaley,RB,24,"5'11""",212,Arkansas
+2022,HOU,Houston Gamblers,13,Andrew Galitz,P,,"6'0""",195,Baylor
+2022,HOU,Houston Gamblers,14,Teo Redding,WR,27,"6'1""",176,Bowling Green
+2022,HOU,Houston Gamblers,15,Donald Payne,LB,27,"6'0""",228,Stetson
+2022,HOU,Houston Gamblers,16,Tyler Palka,WR,,"6'1""",200,Gannon (PA)
+2022,HOU,Houston Gamblers,17,Anthony Ratliff-Williams,WR,24,"6'1""",200,North Carolina
+2022,HOU,Houston Gamblers,18,Clayton Thorson,QB,26,"6'4""",225,Northwestern
+2022,HOU,Houston Gamblers,19,Nick Vogel,K,26,"5'9""",190,UAB
+2022,HOU,Houston Gamblers,20,Drew Lewis,LB,26,"6'5""",195,Colorado
+2022,HOU,Houston Gamblers,21,Jamar Summers,CB,26,"5'11""",191,Connecticut
+2022,HOU,Houston Gamblers,22,Manny Bunch,S,24,"6'1""",210,Tulsa
+2022,HOU,Houston Gamblers,23,JoJo Ward,WR,24,"5'9""",175,Hawaii
+2022,HOU,Houston Gamblers,24,Stanley Green,CB,23,"6'0""",200,Illinois
+2022,HOU,Houston Gamblers,25,Ryan White,CB,30,"6'0""",195,Auburn
+2022,HOU,Houston Gamblers,31,Jerry Cantave,CB,,"6'3""",190,William Jewell
+2022,HOU,Houston Gamblers,32,Micah Abernathy,CB,25,"6'0""",195,Tennessee
+2022,HOU,Houston Gamblers,38,Tucker Addington,LS,,"6'2""",230,Sam Houston State
+2022,HOU,Houston Gamblers,42,Beniquez Brown,LB,28,"6'1""",196,Mississippi State
+2022,HOU,Houston Gamblers,50,Drequan Brown,DE,,"6'1""",233,Central Oklahoma
+2022,HOU,Houston Gamblers,51,Erick Browne,OL,25,"6'4""",316,Merrimack
+2022,HOU,Houston Gamblers,52,Domenique David,DT,26,"6'3""",315,UNC-Pembroke
+2022,HOU,Houston Gamblers,55,John Yarbrough,T,25,"6'5""",301,Richmond
+2022,HOU,Houston Gamblers,60,Kristjan Sokoli,OL,30,"6'5""",300,Buffalo
+2022,HOU,Houston Gamblers,66,Nick Buchanan,OL,,"6'3""",303,Florida
+2022,HOU,Houston Gamblers,70,Terrone Prescod,OL,,"6'5""",330,North Carolina State
+2022,HOU,Houston Gamblers,74,Avery Gennesy,T,28,"6'4""",321,Texas A&M
+2022,HOU,Houston Gamblers,77,Tyler Higby,OL,25,"6'5""",300,Michigan State
+2022,HOU,Houston Gamblers,78,Brandon Hitner,OL,26,"6'6""",305,Villanova
+2022,HOU,Houston Gamblers,86,Julian Allen,TE,27,"6'3""",248,Southern Miss
+2022,HOU,Houston Gamblers,90,Josh Avery,DT,26,"6'3""",320,Southeast Missouri State
+2022,HOU,Houston Gamblers,91,Cory Thomas,DT,26,"6'5""",310,Mississippi State
+2022,HOU,Houston Gamblers,92,Malik Harris,DE,,"6'5""",265,Incarnate Word
+2022,HOU,Houston Gamblers,93,Chris Odom,DE,27,"6'3""",245,Arkansas State
+2022,HOU,Houston Gamblers,94,Tomasi Laulile,DT,26,"6'3""",300,Brigham Young
+2022,HOU,Houston Gamblers,99,Ahmad Gooden,DE,26,"6'2""",243,Samford
+2022,MIP,Michigan Panthers,0,Marquel Harrell,G,24,"6'3""",295,Auburn
+2022,MIP,Michigan Panthers,0,Quincy Adeboyejo,WR,26,"6'3""",185,Ole Miss
+2022,MIP,Michigan Panthers,0,Syrus Tuitele,T,,"6'6""",318,Fresno State
+2022,MIP,Michigan Panthers,0,Taiwan Jones,LB,28,"6'3""",249,Michigan State
+2022,MIP,Michigan Panthers,1,Jameson Houston,CB,25,"5'11""",200,Baylor
+2022,MIP,Michigan Panthers,2,Shea Patterson,QB,25,"6'1""",210,Michigan
+2022,MIP,Michigan Panthers,3,Reggie Corbin,RB,26,"5'9""",205,Illinois
+2022,MIP,Michigan Panthers,4,Alexander Vainikolo,LB,,"5'11""",246,New Mexico
+2022,MIP,Michigan Panthers,4,Frank Ginda,LB,24,"6'0""",236,San Jose State
+2022,MIP,Michigan Panthers,5,Tino Ellis,CB,24,"6'1""",194,Maryland
+2022,MIP,Michigan Panthers,6,Orion Stewart,S,28,"6'0""",205,Baylor
+2022,MIP,Michigan Panthers,7,Lance Lenoir Jr.,WR,27,"6'0""",207,Western Illinois
+2022,MIP,Michigan Panthers,8,Joe Walker,WR,26,"6'1""",201,Delaware
+2022,MIP,Michigan Panthers,9,Ray Bolden,WR,26,"5'9""",165,Stony Brook
+2022,MIP,Michigan Panthers,11,La'Michael Pettway,TE,25,"6'2""",219,Iowa State
+2022,MIP,Michigan Panthers,12,Paxton Lynch,QB,28,"6'7""",245,Memphis
+2022,MIP,Michigan Panthers,13,Jeff Badet,WR,27,"5'11""",183,Oklahoma
+2022,MIP,Michigan Panthers,14,Joseph Putu,CB,,"6'2""",195,Florida
+2022,MIP,Michigan Panthers,15,Cameron Scarlett,RB,25,"6'0""",220,Stanford
+2022,MIP,Michigan Panthers,17,Michael Carrizosa,P,26,"5'9""",225,San Jose State
+2022,MIP,Michigan Panthers,18,Devin Ross,WR,26,"5'9""",181,Colorado
+2022,MIP,Michigan Panthers,20,Kieron Williams,S,27,"6'1""",195,Nebraska
+2022,MIP,Michigan Panthers,21,Dominique Martin,CB,28,"5'10""",180,Tarleton State
+2022,MIP,Michigan Panthers,22,Warren Saba,S,,"5'9""",193,East Carolina
+2022,MIP,Michigan Panthers,23,Jalin Burrell,CB,25,"5'11""",200,New Mexico
+2022,MIP,Michigan Panthers,24,Sean Williams,S,,"6'1""",215,Navy
+2022,MIP,Michigan Panthers,25,Stevie Scott III,RB,21,"6'1""",225,Indiana
+2022,MIP,Michigan Panthers,32,Justin Hughes,LB,26,"6'1""",229,Kansas State
+2022,MIP,Michigan Panthers,44,Terry Myrick,LB,,"5'11""",225,Eastern Michigan
+2022,MIP,Michigan Panthers,50,Teton Saltes,OL,23,"6'5""",300,New Mexico
+2022,MIP,Michigan Panthers,52,Shane Griffin,LS,,"6'4""",253,West Chester
+2022,MIP,Michigan Panthers,54,Cordel Iwuagwu,OL,25,"6'3""",309,TCU
+2022,MIP,Michigan Panthers,55,Adewale Adeoye,DE,,"6'4""",270,Utah State
+2022,MIP,Michigan Panthers,56,Tejan Koroma,OL,25,"6'1""",290,BYU
+2022,MIP,Michigan Panthers,64,Joshua Dunlop,T,25,"6'7""",315,UTSA
+2022,MIP,Michigan Panthers,70,Walter Palmore,DT,25,"6'4""",320,Missouri
+2022,MIP,Michigan Panthers,75,Christian Teuhema,OL,25,"6'5""",315,Southeastern Louisiana
+2022,MIP,Michigan Panthers,76,Sean Pollard,OL,24,"6'5""",322,Clemson
+2022,MIP,Michigan Panthers,77,Keith Williams,OL,34,"6'7""",290,Nebraska
+2022,MIP,Michigan Panthers,79,Daishawn Dixon,OL,24,"6'4""",331,San Diego State
+2022,MIP,Michigan Panthers,85,Marcus Baugh,TE,27,"6'4""",240,Ohio State
+2022,MIP,Michigan Panthers,86,Joey Magnifico,TE,,"6'4""",245,Memphis
+2022,MIP,Michigan Panthers,88,Connor Davis,TE,27,"6'8""",260,Stony Brook
+2022,MIP,Michigan Panthers,92,Kyshonn Tyson,DT,,"6'4""",280,Grand Valley State
+2022,MIP,Michigan Panthers,94,Jaquan Bailey,DT,24,"6'1""",281,Iowa State
+2022,MIP,Michigan Panthers,96,T.J. Carter,DT,23,"6'3""",279,Kentucky
+2022,MIP,Michigan Panthers,97,Chase DeMoor,DE,25,"6'5""",250,Central Washington
+2022,MIP,Michigan Panthers,99,Cavon Walker,DE,27,"6'2""",275,Maryland
+2022,NJG,New Jersey Generals,1,De'Andre Johnson,QB,,"6'2""",188,Texas Southern
+2022,NJG,New Jersey Generals,2,Luis Perez,QB,27,"6'3""",220,Texas A&M-Commerce
+2022,NJG,New Jersey Generals,3,Trey Williams,RB,29,"5'11""",230,Texas A&M
+2022,NJG,New Jersey Generals,4,D'Juan Hines,LB,27,"6'1""",235,Houston
+2022,NJG,New Jersey Generals,5,KaVontae Turpin,WR,,"5'9""",155,TCU
+2022,NJG,New Jersey Generals,6,J'Mon Moore,WR,26,"6'2""",226,Missouri
+2022,NJG,New Jersey Generals,7,Dravon Askew-Henry,S,26,"6'0""",203,West Virginia
+2022,NJG,New Jersey Generals,8,David Rivers III,CB,27,"6'1""",185,Youngstown State
+2022,NJG,New Jersey Generals,9,Mike Weber,RB,24,"5'10""",211,Ohio State
+2022,NJG,New Jersey Generals,10,Darrius Shepherd,WR,26,"5'10""",185,North Dakota State
+2022,NJG,New Jersey Generals,11,Nick Rose,K,27,"6'2""",178,Texas
+2022,NJG,New Jersey Generals,12,Mike Bell,S,,"6'2""",210,Fresno State
+2022,NJG,New Jersey Generals,13,Alonzo Moore,WR,29,"6'1""",195,Nebraska
+2022,NJG,New Jersey Generals,15,Tim Walton,LB,,"6'2""",230,Texas Southern
+2022,NJG,New Jersey Generals,18,Cameron Echols-Luper,WR,27,"6'0""",195,Western Kentucky
+2022,NJG,New Jersey Generals,19,Brock Miller,P,31,"6'0""",195,Southern Utah
+2022,NJG,New Jersey Generals,21,Trae Elston,CB,28,"6'0""",184,Ole Miss
+2022,NJG,New Jersey Generals,22,Christian Tutt,CB,,"5'11""",185,Auburn
+2022,NJG,New Jersey Generals,24,Paris Ford,S,23,"6'0""",190,Pittsburgh
+2022,NJG,New Jersey Generals,25,Shalom Luani,S,27,"6'0""",201,Washington State
+2022,NJG,New Jersey Generals,26,DeJuan Neal,CB,,"6'0""",190,Shepherd (WV)
+2022,NJG,New Jersey Generals,27,Darius Victor,RB,,"5'8""",209,Towson
+2022,NJG,New Jersey Generals,41,De'Vante Bausby,CB,29,"6'0""",190,Pittsburg State (KS)
+2022,NJG,New Jersey Generals,45,Chris Orr,LB,24,"6'0""",227,Wisconsin
+2022,NJG,New Jersey Generals,49,Angelo Garbutt,LB,25,"6'2""",232,Missouri State
+2022,NJG,New Jersey Generals,50,Deyon Sizer,DE,25,"6'4""",280,CSU Pueblo
+2022,NJG,New Jersey Generals,51,Garrett McGhin,T,27,"6'5""",320,East Carolina
+2022,NJG,New Jersey Generals,55,Kolin Hill,DE,,"6'2""",235,Texas Tech
+2022,NJG,New Jersey Generals,56,Bryson Young,DE,24,"6'5""",250,Oregon
+2022,NJG,New Jersey Generals,57,Mike Brown,G,,"6'4""",320,West Virginia
+2022,NJG,New Jersey Generals,68,Jake Lacina,OL,25,"6'4""",300,Augustana (SD)
+2022,NJG,New Jersey Generals,69,Evan Heim,OL,25,"6'3""",305,Minnesota State-Mankato
+2022,NJG,New Jersey Generals,70,Robert Myers,OL,,"6'5""",325,Tennessee State
+2022,NJG,New Jersey Generals,71,Calvin Ashley,T,,"6'6""",310,Florida A&M
+2022,NJG,New Jersey Generals,72,Terry Poole,T,30,"6'5""",325,San Diego State
+2022,NJG,New Jersey Generals,76,Brandon Haskin,OL,,"6'3""",315,Tennessee State
+2022,NJG,New Jersey Generals,80,Braedon Bowman,TE,28,"6'4""",235,South Alabama
+2022,NJG,New Jersey Generals,81,Randy Satterfield,WR,26,"6'4""",210,Lyon College (AR)
+2022,NJG,New Jersey Generals,85,Nick Truesdell,TE,32,"6'6""",252,Grand Rapids CC (MI)
+2022,NJG,New Jersey Generals,88,Woody Brandom,TE,,"6'5""",260,Sam Houston State
+2022,NJG,New Jersey Generals,89,Scott Flanick,LS,,"6'1""",235,Army
+2022,NJG,New Jersey Generals,90,Toby Johnson,DT,30,"6'4""",320,Georgia
+2022,NJG,New Jersey Generals,97,Destiny Vaeao,DT,28,"6'4""",301,Washington State
+2022,NJG,New Jersey Generals,98,Kalani Vakameilalo,DT,25,"6'3""",322,Oregon State
+2022,NJG,New Jersey Generals,99,Tyshun Render,DE,25,"6'3""",255,Middle Tennessee State
+2022,NOB,New Orleans Breakers,0,Brandon Rolfe,OL,25,"6'3""",310,UTSA
+2022,NOB,New Orleans Breakers,0,Donnell Greene,T,26,"6'5""",335,Minnesota
+2022,NOB,New Orleans Breakers,0,Liam Dobson,G,,"6'3""",331,Texas State
+2022,NOB,New Orleans Breakers,0,Derrick Jones,CB,27,"6'2""",188,Ole Miss
+2022,NOB,New Orleans Breakers,1,Shawn Poindexter,WR,26,"6'5""",225,Arizona
+2022,NOB,New Orleans Breakers,2,Johnnie Dixon,WR,27,"5'11""",200,Ohio State
+2022,NOB,New Orleans Breakers,3,Adonis Alexander,CB,25,"6'3""",190,Virginia Tech
+2022,NOB,New Orleans Breakers,4,Manny Patterson,CB,23,"5'11""",180,Maine
+2022,NOB,New Orleans Breakers,5,Chad Williams,WR,27,"6'1""",205,Grambling State
+2022,NOB,New Orleans Breakers,6,T.J. Logan Jr.,RB,,"5'9""",196,North Carolina
+2022,NOB,New Orleans Breakers,7,Austin MacGinnis,K,26,"5'10""",185,Kentucky
+2022,NOB,New Orleans Breakers,8,Nigel Chavis,DE,25,"6'1""",230,Norfolk State
+2022,NOB,New Orleans Breakers,9,Jonathan Adams,WR,23,"6'3""",220,Arkansas State
+2022,NOB,New Orleans Breakers,10,Kyle Sloter,QB,28,"6'5""",218,Northern Colorado
+2022,NOB,New Orleans Breakers,11,Zach Smith,QB,24,"6'2""",227,Tulsa
+2022,NOB,New Orleans Breakers,12,Larry Rose III,RB,26,"5'10""",192,New Mexico State
+2022,NOB,New Orleans Breakers,13,Taywan Taylor,WR,27,"5'11""",203,Western Kentucky
+2022,NOB,New Orleans Breakers,14,Nevelle Clark,CB,,"6'1""",187,Central Florida
+2022,NOB,New Orleans Breakers,16,Aashari Crosswell,S,21,"6'0""",196,Arizona State
+2022,NOB,New Orleans Breakers,18,Dartez Jacobs,S,28,"6'2""",200,Georgia State
+2022,NOB,New Orleans Breakers,19,Matt White,K,,"6'1""",190,Monmouth
+2022,NOB,New Orleans Breakers,20,Vontae Diggs,LB,26,"6'2""",229,Connecticut
+2022,NOB,New Orleans Breakers,21,Jalen Embry,CB,26,"6'0""",195,Northern Illinois
+2022,NOB,New Orleans Breakers,22,Mike Stevens,CB,,"5'11""",190,NC State
+2022,NOB,New Orleans Breakers,23,Jarey Elder,S,,"5'11""",195,West Chester
+2022,NOB,New Orleans Breakers,28,Keith Washington II,CB,,"6'1""",190,West Virginia
+2022,NOB,New Orleans Breakers,31,Jordan Ellis,RB,26,"5'10""",220,Virginia
+2022,NOB,New Orleans Breakers,35,Ike Brown,CB,23,"6'0""",190,Florida International
+2022,NOB,New Orleans Breakers,45,Jerod Fernandez,LB,27,"5'11""",227,North Carolina State
+2022,NOB,New Orleans Breakers,51,Christopher Okoye,DT,25,"6'5""",320,Ferris State
+2022,NOB,New Orleans Breakers,53,Jalen Allen,G,26,"6'3""",284,Charlotte
+2022,NOB,New Orleans Breakers,54,Toree Boyd,OL,,"6'3""",305,Howard
+2022,NOB,New Orleans Breakers,55,James Folston Jr.,DE,25,"6'3""",233,Pittsburgh
+2022,NOB,New Orleans Breakers,56,Davin Bellamy,DE,27,"6'5""",259,Georgia
+2022,NOB,New Orleans Breakers,58,Shareef Miller,DE,25,"6'4""",254,Penn State
+2022,NOB,New Orleans Breakers,60,Turner Bernard,LS,23,"6'1""",239,San Diego State
+2022,NOB,New Orleans Breakers,65,Jared Thomas,C,,"6'4""",310,Northwestern
+2022,NOB,New Orleans Breakers,67,Steven Rowzee,G,27,"6'3""",335,Troy
+2022,NOB,New Orleans Breakers,74,Marquis Lucas,T,29,"6'4""",318,West Virginia
+2022,NOB,New Orleans Breakers,77,Paul Adams,T,26,"6'5""",317,Missouri
+2022,NOB,New Orleans Breakers,79,Kai Absheer,OL,,"6'4""",335,Florida International University
+2022,NOB,New Orleans Breakers,80,Sal Cannella,TE,25,"6'5""",230,Auburn
+2022,NOB,New Orleans Breakers,81,Justin Johnson,TE,25,"6'3""",235,Mississippi State
+2022,NOB,New Orleans Breakers,85,EJ Bibbs,TE,30,"6'3""",260,Iowa State
+2022,NOB,New Orleans Breakers,92,Shakir Soto,DT,28,"6'3""",290,Pittsburgh
+2022,NOB,New Orleans Breakers,94,Anree Saint-Amour,DE,25,"6'3""",260,Georgia Tech
+2022,NOB,New Orleans Breakers,98,Christian Christian,DT,,"6'3""",270,Jacksonville State
+2022,NOB,New Orleans Breakers,99,Kamilo Tongamoa,DT,26,"6'5""",325,Iowa State
+2022,PHI,Philadelphia Stars,0,Clay LeGault,T,24,"6'5""",325,Merrimack
+2022,PHI,Philadelphia Stars,0,Jack Tocho,S,26,"6'1""",195,North Carolina State
+2022,PHI,Philadelphia Stars,0,James Crawford,LB,27,"6'2""",239,Illinois
+2022,PHI,Philadelphia Stars,1,M.Lewis Lewis,CB,,"6'1""",196,Maryland
+2022,PHI,Philadelphia Stars,2,Jordan Suell,WR,24,"6'5""",205,Southern Oregon
+2022,PHI,Philadelphia Stars,3,Bradley Sylve,CB,29,"6'0""",181,Alabama
+2022,PHI,Philadelphia Stars,4,LaDarius Wiley,S,25,"6'1""",210,Vanderbilt
+2022,PHI,Philadelphia Stars,5,Matt Colburn II,RB,24,"5'10""",201,Wake Forest
+2022,PHI,Philadelphia Stars,6,Darnell Holland,RB,25,"5'10""",200,Kennesaw State
+2022,PHI,Philadelphia Stars,7,Devin Gray,WR,26,"5'11""",183,Cincinnati
+2022,PHI,Philadelphia Stars,8,Channing Stribling,CB,27,"6'2""",175,Michigan
+2022,PHI,Philadelphia Stars,9,Brennan Eagles,WR,,"6'3""",225,Texas
+2022,PHI,Philadelphia Stars,10,Case Cookus,QB,26,"6'4""",205,Northern Arizona
+2022,PHI,Philadelphia Stars,11,Bug Howard,TE,27,"6'5""",240,North Carolina
+2022,PHI,Philadelphia Stars,12,Chris Rowland,WR,24,"5'8""",179,Tennessee State
+2022,PHI,Philadelphia Stars,13,Maurice Alexander,WR,,"5'11""",180,Florida International
+2022,PHI,Philadelphia Stars,14,Diondre Overton,WR,23,"6'5""",210,Clemson
+2022,PHI,Philadelphia Stars,18,Bryan Scott,QB,26,"6'2""",220,Occidental
+2022,PHI,Philadelphia Stars,19,Matt Mengel,K,,"6'2""",220,UCLA
+2022,PHI,Philadelphia Stars,20,Evan Worthington,S,26,"6'2""",215,Colorado
+2022,PHI,Philadelphia Stars,21,Cody Brown,S,28,"6'0""",201,Arkansas State
+2022,PHI,Philadelphia Stars,22,Te'Von Coney,LB,24,"6'1""",230,Notre Dame
+2022,PHI,Philadelphia Stars,23,Mazzi Wilkins,CB,26,"6'0""",191,South Florida
+2022,PHI,Philadelphia Stars,25,Paul Terry,RB,,"5'8""",205,Eastern New Mexico
+2022,PHI,Philadelphia Stars,29,Amani Dennis,CB,,"5'11""",180,Carthage
+2022,PHI,Philadelphia Stars,30,Jordan Moore,LB,28,"6'3""",225,UTSA
+2022,PHI,Philadelphia Stars,36,Ahmad Dixon,S,30,"6'0""",210,Baylor
+2022,PHI,Philadelphia Stars,52,Josh Banderas,LB,27,"6'2""",238,Nebraska
+2022,PHI,Philadelphia Stars,55,Gabriel Sewell Jr.,LB,,"6'0""",245,Nevada
+2022,PHI,Philadelphia Stars,58,Adam Rodriguez,DE,24,"6'2""",245,Weber State
+2022,PHI,Philadelphia Stars,59,Carroll Phillips,DE,29,"6'2""",245,Illinois
+2022,PHI,Philadelphia Stars,64,Jackson Scott-Brown,OL,,"6'4""",315,Northern Iowa
+2022,PHI,Philadelphia Stars,65,Sean Brown,OL,29,"6'3""",320,Mississippi Valley State
+2022,PHI,Philadelphia Stars,69,Ryan Navarro,LS,27,"6'2""",223,Oregon State
+2022,PHI,Philadelphia Stars,72,Paul Nosworthy,OL,,"6'4""",320,Buffalo
+2022,PHI,Philadelphia Stars,73,Jacob Burton,T,,"6'6""",312,Baylor
+2022,PHI,Philadelphia Stars,74,Blake Camper,T,25,"6'8""",309,South Carolina
+2022,PHI,Philadelphia Stars,75,Gunner Vogel,OL,,"6'6""",308,Northwestern
+2022,PHI,Philadelphia Stars,78,Jahair Jones,OL,,"6'4""",311,Miami (FL)
+2022,PHI,Philadelphia Stars,84,Pro Wells,TE,,"6'4""",257,TCU
+2022,PHI,Philadelphia Stars,88,Artayvious Lynn,TE,,"6'4""",262,TCU
+2022,PHI,Philadelphia Stars,90,Gus Cumberlander,DE,25,"6'7""",260,Oregon
+2022,PHI,Philadelphia Stars,92,Freedom Akinmoladun,DE,26,"6'3""",278,Nebraska
+2022,PHI,Philadelphia Stars,94,Michael Barnett,DT,24,"6'4""",304,Georgia
+2022,PHI,Philadelphia Stars,97,Chris Nelson,DT,27,"6'3""",310,Texas
+2022,PHI,Philadelphia Stars,98,Jerome Johnson,DT,24,"6'1""",297,Indiana
+2022,PIT,Pittsburgh Maulers,0,Isaiah Battle,T,29,"6'7""",310,Clemson
+2022,PIT,Pittsburgh Maulers,1,Branden Mack,WR,23,"6'5""",220,Temple
+2022,PIT,Pittsburgh Maulers,2,Terrell Bonds,CB,25,"5'8""",182,Tennessee State
+2022,PIT,Pittsburgh Maulers,3,Ajene Harris,CB,25,"5'10""",185,USC
+2022,PIT,Pittsburgh Maulers,4,Bailey Gaither,WR,25,"6'0""",188,San Jose State
+2022,PIT,Pittsburgh Maulers,5,Kyle Lauletta,QB,27,"6'3""",222,Richmond
+2022,PIT,Pittsburgh Maulers,6,Malcolm Howard,LB,29,"6'3""",225,Central Oklahoma
+2022,PIT,Pittsburgh Maulers,7,Delvon Hardaway,WR,26,"6'0""",198,Fresno State
+2022,PIT,Pittsburgh Maulers,8,Tyson Graham Jr.,LB,28,"6'4""",250,South Dakota
+2022,PIT,Pittsburgh Maulers,9,Madre London,RB,,"6'1""",220,Tennessee
+2022,PIT,Pittsburgh Maulers,10,Jeff Thomas,WR,24,"5'9""",175,Miami (FL)
+2022,PIT,Pittsburgh Maulers,11,Keith Gipson Jr.,CB,,"6'2""",200,Mary-Hardin Baylor
+2022,PIT,Pittsburgh Maulers,12,Josh Love,QB,25,"6'2""",205,San Jose State
+2022,PIT,Pittsburgh Maulers,16,Ramiz Ahmed,K,,"6'0""",195,Nevada
+2022,PIT,Pittsburgh Maulers,17,Matt Seybert,TE,24,"6'4""",250,Michigan State
+2022,PIT,Pittsburgh Maulers,18,Max Duffy,P,29,"6'1""",190,Kentucky
+2022,PIT,Pittsburgh Maulers,20,Malcolm Elmore,S,,"5'11""",185,Central Methodist
+2022,PIT,Pittsburgh Maulers,21,Arnold Tarpley III,S,25,"6'1""",203,Vanderbilt
+2022,PIT,Pittsburgh Maulers,22,Bryce Torneden,S,,"5'9""",190,Kansas
+2022,PIT,Pittsburgh Maulers,23,Prince Robinson,CB,,"5'11""",190,Tarleton State
+2022,PIT,Pittsburgh Maulers,24,Jaylon McClain-Sapp,CB,23,"5'10""",183,Marshall
+2022,PIT,Pittsburgh Maulers,31,Kyahva Tezino,LB,24,"6'0""",235,San Diego State
+2022,PIT,Pittsburgh Maulers,37,Garrett Groshek,RB,24,"5'11""",220,Wisconsin
+2022,PIT,Pittsburgh Maulers,38,Mikey Daniel,FB,25,"6'0""",235,South Dakota State
+2022,PIT,Pittsburgh Maulers,44,E.J. Ejiya,LB,26,"6'3""",231,North Texas
+2022,PIT,Pittsburgh Maulers,45,Dale Warren,LB,,"6'1""",230,Chattanooga
+2022,PIT,Pittsburgh Maulers,48,Mitchell Fraboni,LS,,"6'2""",223,Arizona State
+2022,PIT,Pittsburgh Maulers,51,Justin Evans,OL,,"6'4""",310,South Carolina State
+2022,PIT,Pittsburgh Maulers,52,Blair Brown,LB,27,"5'11""",238,Ohio
+2022,PIT,Pittsburgh Maulers,56,Eric Assoua,DE,25,"6'2""",250,Western Michigan
+2022,PIT,Pittsburgh Maulers,58,Brayden Patton,OL,24,"6'5""",309,Northern Illinois
+2022,PIT,Pittsburgh Maulers,62,Abdul Beecham,OL,25,"6'2""",321,Kansas State
+2022,PIT,Pittsburgh Maulers,67,Jon Dietzen,G,25,"6'4""",312,Wisconsin
+2022,PIT,Pittsburgh Maulers,68,Chidi Okeke,T,25,"6'6""",315,Tennessee State
+2022,PIT,Pittsburgh Maulers,72,Charles Baldwin,T,,"6'5""",305,Youngstown State
+2022,PIT,Pittsburgh Maulers,74,Nico Falah,OL,27,"6'4""",301,USC
+2022,PIT,Pittsburgh Maulers,78,Vadal Alexander,OL,28,"6'5""",336,LSU
+2022,PIT,Pittsburgh Maulers,85,Hunter Thedford,TE,25,"6'6""",260,Utah
+2022,PIT,Pittsburgh Maulers,89,Tre Walker,WR,,"5'11""",180,San Jose State
+2022,PIT,Pittsburgh Maulers,90,Ethan Westbrooks,DT,31,"6'4""",287,West Texas A&M
+2022,PIT,Pittsburgh Maulers,91,Boogie Roberts,DT,,"6'2""",290,San Jose State
+2022,PIT,Pittsburgh Maulers,92,Jeremiah Pharms Jr.,DT,,"6'3""",301,Friends
+2022,PIT,Pittsburgh Maulers,94,Olive Sagapolu,DT,25,"6'2""",341,Wisconsin
+2022,PIT,Pittsburgh Maulers,95,Nasir Player,DE,25,"6'5""",271,East Tennessee State
+2022,PIT,Pittsburgh Maulers,97,Darrius Moragne,DT,,"6'5""",295,Kansas
+2022,PIT,Pittsburgh Maulers,99,Carlo Kemp,DE,24,"6'5""",240,Michigan
+2022,TBB,Tampa Bay Bandits,0,Eli Rogers,WR,29,"5'10""",187,Louisville
+2022,TBB,Tampa Bay Bandits,0,Tyler Catalina,T,29,"6'6""",315,Georgia
+2022,TBB,Tampa Bay Bandits,0,Adam Shuler,DE,,"6'5""",285,Florida
+2022,TBB,Tampa Bay Bandits,0,T.J. Neal,LB,22,"6'1""",230,Wofford
+2022,TBB,Tampa Bay Bandits,1,John Franklin III,WR,27,"6'1""",185,Florida Atlantic
+2022,TBB,Tampa Bay Bandits,2,Rashard Causey,CB,25,"6'0""",195,UCF
+2022,TBB,Tampa Bay Bandits,3,Brady White,QB,25,"6'1""",215,Memphis
+2022,TBB,Tampa Bay Bandits,4,Derrick Dillon,WR,26,"5'11""",179,LSU
+2022,TBB,Tampa Bay Bandits,6,Christian Sam,LB,25,"6'2""",240,Arizona State
+2022,TBB,Tampa Bay Bandits,7,Christian Campbell,CB,26,"6'1""",195,Penn State
+2022,TBB,Tampa Bay Bandits,8,Zac Dawe,DE,,"6'4""",271,Brigham Young
+2022,TBB,Tampa Bay Bandits,9,Rannell Hall,CB,29,"6'1""",201,UCF
+2022,TBB,Tampa Bay Bandits,10,Jordan Ta'amu,QB,24,"6'3""",221,Ole Miss
+2022,TBB,Tampa Bay Bandits,11,Derrick Willies,WR,27,"6'4""",210,Texas Tech
+2022,TBB,Tampa Bay Bandits,12,Tyler Rausa,K,,"5'9""",180,Boise State
+2022,TBB,Tampa Bay Bandits,13,Vinny Papale,WR,25,"6'1""",205,Delaware
+2022,TBB,Tampa Bay Bandits,16,Brandon Wright,K,25,"5'10""",175,Georgia State
+2022,TBB,Tampa Bay Bandits,17,Jordan Lasley,WR,25,"6'2""",206,UCLA
+2022,TBB,Tampa Bay Bandits,20,Obi Melifonwu,S,28,"6'4""",224,Connecticut
+2022,TBB,Tampa Bay Bandits,21,Delrick Abrams Jr.,CB,25,"6'3""",195,Colorado
+2022,TBB,Tampa Bay Bandits,22,Anthony Cioffi,S,27,"6'0""",200,Rutgers
+2022,TBB,Tampa Bay Bandits,25,Keith Mumphery,WR,29,"6'0""",215,Michigan State
+2022,TBB,Tampa Bay Bandits,28,BJ Emmons,RB,24,"5'11""",215,Florida Atlantic
+2022,TBB,Tampa Bay Bandits,29,Juwan Washington,RB,25,"5'6""",190,San Diego State
+2022,TBB,Tampa Bay Bandits,30,Quenton Meeks,CB,25,"6'2""",200,Stanford
+2022,TBB,Tampa Bay Bandits,40,Stephen Griffin,S,,"6'3""",206,North Carolina State
+2022,TBB,Tampa Bay Bandits,41,Greg Reaves,LB,25,"6'2""",241,South Florida
+2022,TBB,Tampa Bay Bandits,42,Antonio Reed,S,24,"6'0""",212,Nebraska
+2022,TBB,Tampa Bay Bandits,43,Emmanuel Beal,LB,26,"6'0""",223,Oklahoma
+2022,TBB,Tampa Bay Bandits,44,Ryan DiSalvo,LS,28,"6'4""",245,San Jose State
+2022,TBB,Tampa Bay Bandits,50,Mekhi Brown,DE,,"6'5""",241,Tennessee State
+2022,TBB,Tampa Bay Bandits,51,Damien Mama,OL,26,"6'3""",334,USC
+2022,TBB,Tampa Bay Bandits,55,Michael Scott,DE,25,"6'5""",240,Oklahoma State
+2022,TBB,Tampa Bay Bandits,56,Travis Feeney,LB,29,"6'4""",240,Washington
+2022,TBB,Tampa Bay Bandits,61,Bruno Reagan,OL,25,"6'3""",335,Vanderbilt
+2022,TBB,Tampa Bay Bandits,64,Fred Lauina,G,26,"6'4""",315,Oregon State
+2022,TBB,Tampa Bay Bandits,65,Corbin Kaufusi,T,29,"6'9""",320,Brigham Young
+2022,TBB,Tampa Bay Bandits,70,Matthew Burrell Jr.,OL,,"6'4""",310,Ohio State
+2022,TBB,Tampa Bay Bandits,72,Jalen Booth,T,,"6'4""",375,Indiana State
+2022,TBB,Tampa Bay Bandits,73,Juwann Bushell-Beatty,T,25,"6'6""",318,Michigan
+2022,TBB,Tampa Bay Bandits,77,Jarron Jones,T,28,"6'6""",315,Notre Dame
+2022,TBB,Tampa Bay Bandits,81,Rashard Davis,WR,26,"5'9""",175,James Madison
+2022,TBB,Tampa Bay Bandits,85,Cheyenne O'Grady,TE,25,"6'4""",245,Arkansas
+2022,TBB,Tampa Bay Bandits,88,De'Quan Hampton,TE,27,"6'3""",223,USC
+2022,TBB,Tampa Bay Bandits,90,Austrian Robinson,DT,26,"6'3""",300,Ole Miss
+2022,TBB,Tampa Bay Bandits,94,Daylon Mack,DT,25,"6'1""",340,Texas A&M
+2022,TBB,Tampa Bay Bandits,97,Reggie Howard,DT,26,"6'3""",290,Toledo
+2022,TBB,Tampa Bay Bandits,99,John Atkins,DT,29,"6'3""",320,Georgia
